@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Flapp - O app do Rubro Negro",
+    "icon": "./assets/images/icon.png",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "slug": "flapp2019",
+    "sdkVersion": "35.0.0",
+    "notification": {
+      "icon": "./assets/images/icon.png"
+    },
+    "loading": {
+      "icon": "./assets/images/icon.png",
+      "hideExponentText": true
+    
+    },
+
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+       
+    },
+    "ios": {
+      "bundleIdentifier": "com.azimutedeveloper.flappdomengaoNew"
+    },
+    "android": {
+      "package": "com.azimutedeveloper.flappdomengaoNew"
+            
+    }
+  }
+}
