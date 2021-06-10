@@ -30,21 +30,6 @@ git pull origin master// tras todas as alterações feitas e gravadas no github/
 
 git push origin master // envia o container com a mensagem do commit 
 
-gmail do app
-flapp.appdomengao@gmail.com
-senha: flapp2019
-
-Data de NAscimento no cadastro do gmail
-10/10/2000
-
-Twiter
-flapp.appdomengao@gmail.com
-senha: flap2019
-
-facebook
-flapp.appdomengao@gmail.com
-senha: flapp2019
-
 wsl
 curl.exe -L -o ubuntu-1604.appx https://aka.ms/wsl-ubuntu-1604
 
