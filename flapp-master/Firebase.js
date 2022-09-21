@@ -1,5 +1,5 @@
 import firebase from 'firebase'
-
+//Firebase config
 var firebaseConfig = {
   apiKey: "AIzaSyAyQOcyk4o4o2PJVW-glmyW9gqahmG0hyw",
   authDomain: "flapp-appdomengao.firebaseapp.com",
